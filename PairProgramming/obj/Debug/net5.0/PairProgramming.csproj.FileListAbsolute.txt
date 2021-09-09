@@ -1,0 +1,16 @@
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.exe
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.deps.json
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.runtimeconfig.json
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.runtimeconfig.dev.json
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.dll
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\ref\PairProgramming.dll
+C:\GitHub\PairProgramming\PairProgramming\bin\Debug\net5.0\PairProgramming.pdb
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.csproj.AssemblyReference.cache
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.AssemblyInfoInputs.cache
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.AssemblyInfo.cs
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.csproj.CoreCompileInputs.cache
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.dll
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\ref\PairProgramming.dll
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.pdb
+C:\GitHub\PairProgramming\PairProgramming\obj\Debug\net5.0\PairProgramming.genruntimeconfig.cache
